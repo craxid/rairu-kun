@@ -45,9 +45,9 @@ ps: Satu akun ngrok hanya dapat menggunakan 1 agen aktif, jika Anda ingin menjal
 ## Waktunya Deploy 🔥
 Klik tombol dibawah ini ⬇️
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UWS-IM?referralCode=BwO6_M)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
 
-Isi `NGROK_TOKEN` dengan Tokenmu.
+Isi ```NGROK_TOKEN``` dengan Tokenmu.
 
 Isi `PORT` port bawaan 80.
 
