@@ -9,7 +9,7 @@ services:
     healthCheckPath: /
     envVars:
       - key: PORT
-        value: 80
+        value: 22
       - key: NGROK_TOKEN
         sync: false
       - key: REGION
