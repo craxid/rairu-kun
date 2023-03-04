@@ -25,7 +25,7 @@ Click the Railway button at the Below
 
 Fill the `NGROK_TOKEN` with your Token.
 
-`PORT` default port is 80.
+`PORT` default port is 22.
 
 `REGION` default Region is ap, But you can also change to the nearest server.
 
@@ -49,7 +49,7 @@ Klik tombol dibawah ini ⬇️
 
 Isi ```NGROK_TOKEN``` dengan Tokenmu.
 
-Isi `PORT` port bawaan 80.
+Isi `PORT` port bawaan 22.
 
 Isi `REGION` Region bawaan ap, tapi kamu juga bisa mengubah ke server terdekat.
 
