@@ -21,7 +21,7 @@ ps: One ngrok account can only use 1 active agent, if you want to run multiple a
 
 Click the Railway button at the Below 
 
-[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/UWS-IM?referralCode=BwO6_M)
+[![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new/template/BzFWCH?referralCode=dG01iI)
 
 Fill the `NGROK_TOKEN` with your Token.
 
