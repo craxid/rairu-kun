@@ -8,9 +8,9 @@ services:
     plan: free # optional (defaults to starter)
     healthCheckPath: /
     envVars:
-      - key: PORT
+      - key: PORT #ngrok pory
         value: 22
-      - key: NGROK_TOKEN
+      - key: NGROK_TOKEN # ngrok token
         sync: false
-      - key: REGION
+      - key: REGION # ngrok region
         sync: false
