@@ -9,7 +9,7 @@
 
 ### Deploy Tutorial for Railway
 
-1. Create [Railway Account](https://railway.app?referralCode=BwO6_M) account or use an existing account.
+1. Create [Railway Account](https://railway.app?referralCode=dG01iI) account or use an existing account.
 
 2. Create [Ngrok Account](https://dashboard.ngrok.com/).
 
@@ -34,7 +34,7 @@ Fill the `NGROK_TOKEN` with your Token.
 ### VPS Gratis SEUMUR HIDUP!!!
 
 ### Tutorial Deploy VPS
-1. Buat [Akun Railway](https://railway.app?referralCode=BwO6_M) atau gunakan akun yang ada.
+1. Buat [Akun Railway](https://railway.app?referralCode=dG01iI) atau gunakan akun yang ada.
 
 2. Buat atau login ke [Akun Ngrok](https://dashboard.ngrok.com/).
 
